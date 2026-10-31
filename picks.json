@@ -19,7 +19,8 @@
       "formDetail": "Bologna FC 1909 5/5 + AC Monza 5/5 recent games over 1.5 \u2022 expected goals 1.83-1.56",
       "explanation": "Bologna FC 1909 5/5 + AC Monza 5/5 recent games over 1.5 \u2022 expected goals 1.83-1.56",
       "reason": "Bologna FC 1909 5/5 + AC Monza 5/5 recent games over 1.5 \u2022 expected goals 1.83-1.56",
-      "result": "PENDING"
+      "result": "WON",
+      "finalScore": "2-1"
     },
     {
       "id": 565843,
@@ -58,7 +59,8 @@
       "formDetail": "Manchester City FC 4/5 + Brighton & Hove Albion FC 5/5 recent games over 1.5 \u2022 expected goals 2.00-1.89",
       "explanation": "Manchester City FC 4/5 + Brighton & Hove Albion FC 5/5 recent games over 1.5 \u2022 expected goals 2.00-1.89",
       "reason": "Manchester City FC 4/5 + Brighton & Hove Albion FC 5/5 recent games over 1.5 \u2022 expected goals 2.00-1.89",
-      "result": "PENDING"
+      "result": "LOST",
+      "finalScore": "0-1"
     }
   ]
 }
