@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-10-31",
+    "picks": [
+      {
+        "id": 558539,
+        "match": "Bologna FC 1909 vs AC Monza",
+        "competition": "Serie A",
+        "utcDate": "2026-10-31T14:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 90,
+        "fairOdds": 1.12,
+        "result": "PENDING"
+      },
+      {
+        "id": 565843,
+        "match": "SV Werder Bremen vs TSG 1899 Hoffenheim",
+        "competition": "Bundesliga",
+        "utcDate": "2026-10-31T14:30:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 93,
+        "fairOdds": 1.07,
+        "result": "PENDING"
+      },
+      {
+        "id": 560623,
+        "match": "Manchester City FC vs Brighton & Hove Albion FC",
+        "competition": "Premier League",
+        "utcDate": "2026-10-31T15:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 90,
+        "fairOdds": 1.11,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-10-30",
     "picks": [
       {
