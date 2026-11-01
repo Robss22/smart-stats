@@ -34,8 +34,19 @@
     "utcDate": "2026-11-01T15:15:00Z"
   },
   "564729": {
-    "status": "TIMED",
-    "score": {},
+    "status": "IN_PLAY",
+    "score": {
+      "winner": "HOME_TEAM",
+      "duration": "REGULAR",
+      "fullTime": {
+        "home": 2,
+        "away": 1
+      },
+      "halfTime": {
+        "home": 2,
+        "away": 1
+      }
+    },
     "minute": "",
     "utcDate": "2026-11-01T20:00:00Z"
   }
