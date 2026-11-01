@@ -1,53 +1,31 @@
 {
-  "558539": {
-    "status": "FINISHED",
+  "558544": {
+    "status": "TIMED",
     "score": {
-      "winner": "HOME_TEAM",
+      "winner": null,
       "duration": "REGULAR",
       "fullTime": {
-        "home": 2,
-        "away": 1
+        "home": null,
+        "away": null
       },
       "halfTime": {
-        "home": 1,
-        "away": 1
+        "home": null,
+        "away": null
       }
     },
     "minute": "",
-    "utcDate": "2026-10-31T14:00:00Z"
+    "utcDate": "2026-11-01T14:00:00Z"
   },
-  "565843": {
-    "status": "FINISHED",
-    "score": {
-      "winner": "HOME_TEAM",
-      "duration": "REGULAR",
-      "fullTime": {
-        "home": 2,
-        "away": 0
-      },
-      "halfTime": {
-        "home": 0,
-        "away": 0
-      }
-    },
+  "564734": {
+    "status": "TIMED",
+    "score": {},
     "minute": "",
-    "utcDate": "2026-10-31T14:30:00Z"
+    "utcDate": "2026-11-01T15:15:00Z"
   },
-  "560623": {
-    "status": "FINISHED",
-    "score": {
-      "winner": "AWAY_TEAM",
-      "duration": "REGULAR",
-      "fullTime": {
-        "home": 0,
-        "away": 1
-      },
-      "halfTime": {
-        "home": 0,
-        "away": 1
-      }
-    },
+  "564729": {
+    "status": "TIMED",
+    "score": {},
     "minute": "",
-    "utcDate": "2026-10-31T15:00:00Z"
+    "utcDate": "2026-11-01T20:00:00Z"
   }
 }

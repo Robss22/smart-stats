@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-11-01",
+    "picks": [
+      {
+        "id": 558544,
+        "match": "Frosinone Calcio vs Torino FC",
+        "competition": "Serie A",
+        "utcDate": "2026-11-01T14:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 89,
+        "fairOdds": 1.13,
+        "result": "PENDING"
+      },
+      {
+        "id": 564734,
+        "match": "Real Racing Club de Santander vs Real Madrid CF",
+        "competition": "Primera Division",
+        "utcDate": "2026-11-01T15:15:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 86,
+        "fairOdds": 1.16,
+        "result": "PENDING"
+      },
+      {
+        "id": 564729,
+        "match": "Athletic Club vs Real Sociedad de F\u00fatbol",
+        "competition": "Primera Division",
+        "utcDate": "2026-11-01T20:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 84,
+        "fairOdds": 1.19,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-10-31",
     "picks": [
       {
