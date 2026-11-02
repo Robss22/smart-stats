@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-11-02",
+    "picks": [
+      {
+        "id": 558541,
+        "match": "US Sassuolo Calcio vs ACF Fiorentina",
+        "competition": "Serie A",
+        "utcDate": "2026-11-02T17:30:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 94,
+        "fairOdds": 1.07,
+        "result": "PENDING"
+      },
+      {
+        "id": 558545,
+        "match": "Atalanta BC vs Parma Calcio 1913",
+        "competition": "Serie A",
+        "utcDate": "2026-11-02T19:45:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 86,
+        "fairOdds": 1.16,
+        "result": "PENDING"
+      },
+      {
+        "id": 564731,
+        "match": "RC Deportivo La Coru\u00f1a vs CA Osasuna",
+        "competition": "Primera Division",
+        "utcDate": "2026-11-02T20:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 83,
+        "fairOdds": 1.21,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-11-01",
     "picks": [
       {
