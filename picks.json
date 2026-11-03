@@ -39,7 +39,8 @@
       "formDetail": "Atalanta BC 5/5 + Parma Calcio 1913 4/5 recent games over 1.5 \u2022 expected goals 2.18-1.14",
       "explanation": "Atalanta BC 5/5 + Parma Calcio 1913 4/5 recent games over 1.5 \u2022 expected goals 2.18-1.14",
       "reason": "Atalanta BC 5/5 + Parma Calcio 1913 4/5 recent games over 1.5 \u2022 expected goals 2.18-1.14",
-      "result": "PENDING"
+      "result": "WON",
+      "finalScore": "0-3"
     },
     {
       "id": 564731,
@@ -58,7 +59,8 @@
       "formDetail": "RC Deportivo La Coru\u00f1a 3/5 + CA Osasuna 5/5 recent games over 1.5 \u2022 expected goals 2.14-1.12",
       "explanation": "RC Deportivo La Coru\u00f1a 3/5 + CA Osasuna 5/5 recent games over 1.5 \u2022 expected goals 2.14-1.12",
       "reason": "RC Deportivo La Coru\u00f1a 3/5 + CA Osasuna 5/5 recent games over 1.5 \u2022 expected goals 2.14-1.12",
-      "result": "PENDING"
+      "result": "WON",
+      "finalScore": "2-1"
     }
   ]
 }

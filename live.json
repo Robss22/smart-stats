@@ -17,7 +17,7 @@
     "utcDate": "2026-11-02T17:30:00Z"
   },
   "558545": {
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "score": {
       "winner": "AWAY_TEAM",
       "duration": "REGULAR",
@@ -34,12 +34,12 @@
     "utcDate": "2026-11-02T19:45:00Z"
   },
   "564731": {
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "score": {
-      "winner": "AWAY_TEAM",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "fullTime": {
-        "home": 0,
+        "home": 2,
         "away": 1
       },
       "halfTime": {
