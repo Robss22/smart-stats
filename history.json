@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-11-06",
+    "picks": [
+      {
+        "id": 565852,
+        "match": "Hamburger SV vs Borussia M\u00f6nchengladbach",
+        "competition": "Bundesliga",
+        "utcDate": "2026-11-06T19:30:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 81,
+        "fairOdds": 1.23,
+        "result": "PENDING"
+      },
+      {
+        "id": 558537,
+        "match": "Venezia FC vs Udinese Calcio",
+        "competition": "Serie A",
+        "utcDate": "2026-11-06T19:45:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 76,
+        "fairOdds": 1.32,
+        "result": "PENDING"
+      },
+      {
+        "id": 564740,
+        "match": "Sevilla FC vs Deportivo Alav\u00e9s",
+        "competition": "Primera Division",
+        "utcDate": "2026-11-06T20:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 82,
+        "fairOdds": 1.22,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-11-02",
     "picks": [
       {

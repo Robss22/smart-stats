@@ -1,5 +1,63 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T15:09:33+00:00",
-  "picks": []
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T14:47:55+00:00",
+  "picks": [
+    {
+      "id": 565852,
+      "match": "Hamburger SV vs Borussia M\u00f6nchengladbach",
+      "competition": "Bundesliga",
+      "utcDate": "2026-11-06T19:30:00Z",
+      "time": "2026-11-06T19:30:00Z",
+      "status": "TIMED",
+      "market": "Over 1.5 Goals",
+      "pick": "Over 1.5 Goals",
+      "prob": 81,
+      "confidence": 81,
+      "percent": 81,
+      "xg": 3.45,
+      "fairOdds": 1.23,
+      "formDetail": "Hamburger SV 3/5 + Borussia M\u00f6nchengladbach 4/5 recent games over 1.5 \u2022 expected goals 2.04-1.41",
+      "explanation": "Hamburger SV 3/5 + Borussia M\u00f6nchengladbach 4/5 recent games over 1.5 \u2022 expected goals 2.04-1.41",
+      "reason": "Hamburger SV 3/5 + Borussia M\u00f6nchengladbach 4/5 recent games over 1.5 \u2022 expected goals 2.04-1.41",
+      "result": "PENDING"
+    },
+    {
+      "id": 558537,
+      "match": "Venezia FC vs Udinese Calcio",
+      "competition": "Serie A",
+      "utcDate": "2026-11-06T19:45:00Z",
+      "time": "2026-11-06T19:45:00Z",
+      "status": "TIMED",
+      "market": "Over 1.5 Goals",
+      "pick": "Over 1.5 Goals",
+      "prob": 76,
+      "confidence": 76,
+      "percent": 76,
+      "xg": 3.18,
+      "fairOdds": 1.32,
+      "formDetail": "Venezia FC 2/5 + Udinese Calcio 4/5 recent games over 1.5 \u2022 expected goals 1.34-1.85",
+      "explanation": "Venezia FC 2/5 + Udinese Calcio 4/5 recent games over 1.5 \u2022 expected goals 1.34-1.85",
+      "reason": "Venezia FC 2/5 + Udinese Calcio 4/5 recent games over 1.5 \u2022 expected goals 1.34-1.85",
+      "result": "PENDING"
+    },
+    {
+      "id": 564740,
+      "match": "Sevilla FC vs Deportivo Alav\u00e9s",
+      "competition": "Primera Division",
+      "utcDate": "2026-11-06T20:00:00Z",
+      "time": "2026-11-06T20:00:00Z",
+      "status": "TIMED",
+      "market": "Over 1.5 Goals",
+      "pick": "Over 1.5 Goals",
+      "prob": 82,
+      "confidence": 82,
+      "percent": 82,
+      "xg": 2.88,
+      "fairOdds": 1.22,
+      "formDetail": "Sevilla FC 5/5 + Deportivo Alav\u00e9s 4/5 recent games over 1.5 \u2022 expected goals 1.77-1.11",
+      "explanation": "Sevilla FC 5/5 + Deportivo Alav\u00e9s 4/5 recent games over 1.5 \u2022 expected goals 1.77-1.11",
+      "reason": "Sevilla FC 5/5 + Deportivo Alav\u00e9s 4/5 recent games over 1.5 \u2022 expected goals 1.77-1.11",
+      "result": "PENDING"
+    }
+  ]
 }
