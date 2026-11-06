@@ -19,7 +19,8 @@
       "formDetail": "Hamburger SV 3/5 + Borussia M\u00f6nchengladbach 4/5 recent games over 1.5 \u2022 expected goals 2.04-1.41",
       "explanation": "Hamburger SV 3/5 + Borussia M\u00f6nchengladbach 4/5 recent games over 1.5 \u2022 expected goals 2.04-1.41",
       "reason": "Hamburger SV 3/5 + Borussia M\u00f6nchengladbach 4/5 recent games over 1.5 \u2022 expected goals 2.04-1.41",
-      "result": "PENDING"
+      "result": "WON",
+      "finalScore": "3-1"
     },
     {
       "id": 558537,
@@ -38,7 +39,8 @@
       "formDetail": "Venezia FC 2/5 + Udinese Calcio 4/5 recent games over 1.5 \u2022 expected goals 1.34-1.85",
       "explanation": "Venezia FC 2/5 + Udinese Calcio 4/5 recent games over 1.5 \u2022 expected goals 1.34-1.85",
       "reason": "Venezia FC 2/5 + Udinese Calcio 4/5 recent games over 1.5 \u2022 expected goals 1.34-1.85",
-      "result": "PENDING"
+      "result": "WON",
+      "finalScore": "2-1"
     },
     {
       "id": 564740,
@@ -57,7 +59,8 @@
       "formDetail": "Sevilla FC 5/5 + Deportivo Alav\u00e9s 4/5 recent games over 1.5 \u2022 expected goals 1.77-1.11",
       "explanation": "Sevilla FC 5/5 + Deportivo Alav\u00e9s 4/5 recent games over 1.5 \u2022 expected goals 1.77-1.11",
       "reason": "Sevilla FC 5/5 + Deportivo Alav\u00e9s 4/5 recent games over 1.5 \u2022 expected goals 1.77-1.11",
-      "result": "PENDING"
+      "result": "LOST",
+      "finalScore": "0-0"
     }
   ]
 }
