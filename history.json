@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-11-07",
+    "picks": [
+      {
+        "id": 558532,
+        "match": "Torino FC vs US Lecce",
+        "competition": "Serie A",
+        "utcDate": "2026-11-07T14:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 88,
+        "fairOdds": 1.14,
+        "result": "PENDING"
+      },
+      {
+        "id": 565848,
+        "match": "RB Leipzig vs FC Augsburg",
+        "competition": "Bundesliga",
+        "utcDate": "2026-11-07T14:30:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 96,
+        "fairOdds": 1.05,
+        "result": "PENDING"
+      },
+      {
+        "id": 558531,
+        "match": "AS Roma vs US Sassuolo Calcio",
+        "competition": "Serie A",
+        "utcDate": "2026-11-07T19:45:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 89,
+        "fairOdds": 1.12,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-11-06",
     "picks": [
       {
