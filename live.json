@@ -35,7 +35,18 @@
   },
   "558531": {
     "status": "TIMED",
-    "score": {},
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "home": null,
+        "away": null
+      },
+      "halfTime": {
+        "home": null,
+        "away": null
+      }
+    },
     "minute": "",
     "utcDate": "2026-11-07T19:45:00Z"
   }
