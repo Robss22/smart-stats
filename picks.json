@@ -19,7 +19,8 @@
       "formDetail": "AC Monza 5/5 + Atalanta BC 5/5 recent games over 1.5 \u2022 expected goals 2.16-1.59",
       "explanation": "AC Monza 5/5 + Atalanta BC 5/5 recent games over 1.5 \u2022 expected goals 2.16-1.59",
       "reason": "AC Monza 5/5 + Atalanta BC 5/5 recent games over 1.5 \u2022 expected goals 2.16-1.59",
-      "result": "PENDING"
+      "result": "LOST",
+      "finalScore": "0-1"
     },
     {
       "id": 564743,
@@ -38,7 +39,8 @@
       "formDetail": "Real Sociedad de F\u00fatbol 5/5 + Rayo Vallecano de Madrid 5/5 recent games over 1.5 \u2022 expected goals 1.94-1.30",
       "explanation": "Real Sociedad de F\u00fatbol 5/5 + Rayo Vallecano de Madrid 5/5 recent games over 1.5 \u2022 expected goals 1.94-1.30",
       "reason": "Real Sociedad de F\u00fatbol 5/5 + Rayo Vallecano de Madrid 5/5 recent games over 1.5 \u2022 expected goals 1.94-1.30",
-      "result": "PENDING"
+      "result": "LOST",
+      "finalScore": "1-0"
     },
     {
       "id": 565854,
