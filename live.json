@@ -34,17 +34,17 @@
     "utcDate": "2026-11-07T14:30:00Z"
   },
   "558531": {
-    "status": "TIMED",
+    "status": "FINISHED",
     "score": {
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "fullTime": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "halfTime": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       }
     },
     "minute": "",
