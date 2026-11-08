@@ -34,12 +34,12 @@
     "utcDate": "2026-11-08T15:15:00Z"
   },
   "565854": {
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "score": {
-      "winner": "DRAW",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "fullTime": {
-        "home": 0,
+        "home": 2,
         "away": 0
       },
       "halfTime": {
