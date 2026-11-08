@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-11-08",
+    "picks": [
+      {
+        "id": 558538,
+        "match": "AC Monza vs Atalanta BC",
+        "competition": "Serie A",
+        "utcDate": "2026-11-08T14:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 92,
+        "fairOdds": 1.08,
+        "result": "PENDING"
+      },
+      {
+        "id": 564743,
+        "match": "Real Sociedad de F\u00fatbol vs Rayo Vallecano de Madrid",
+        "competition": "Primera Division",
+        "utcDate": "2026-11-08T15:15:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 88,
+        "fairOdds": 1.13,
+        "result": "PENDING"
+      },
+      {
+        "id": 565854,
+        "match": "SC Freiburg vs 1. FC Union Berlin",
+        "competition": "Bundesliga",
+        "utcDate": "2026-11-08T16:30:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 89,
+        "fairOdds": 1.13,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-11-07",
     "picks": [
       {
