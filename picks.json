@@ -1,5 +1,25 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T16:16:57+00:00",
-  "picks": []
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T15:55:16+00:00",
+  "picks": [
+    {
+      "id": 565859,
+      "match": "FC Bayern M\u00fcnchen vs 1. FC K\u00f6ln",
+      "competition": "Bundesliga",
+      "utcDate": "2026-11-20T19:30:00Z",
+      "time": "2026-11-20T19:30:00Z",
+      "status": "TIMED",
+      "market": "Over 1.5 Goals",
+      "pick": "Over 1.5 Goals",
+      "prob": 89,
+      "confidence": 89,
+      "percent": 89,
+      "xg": 4.2,
+      "fairOdds": 1.13,
+      "formDetail": "FC Bayern M\u00fcnchen 5/5 + 1. FC K\u00f6ln 3/5 recent games over 1.5 \u2022 expected goals 3.20-1.00",
+      "explanation": "FC Bayern M\u00fcnchen 5/5 + 1. FC K\u00f6ln 3/5 recent games over 1.5 \u2022 expected goals 3.20-1.00",
+      "reason": "FC Bayern M\u00fcnchen 5/5 + 1. FC K\u00f6ln 3/5 recent games over 1.5 \u2022 expected goals 3.20-1.00",
+      "result": "PENDING"
+    }
+  ]
 }
