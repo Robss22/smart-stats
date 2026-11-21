@@ -1,19 +1,53 @@
 {
-  "565859": {
-    "status": "FINISHED",
+  "565860": {
+    "status": "IN_PLAY",
     "score": {
       "winner": "DRAW",
       "duration": "REGULAR",
       "fullTime": {
-        "home": 1,
-        "away": 1
+        "home": 0,
+        "away": 0
       },
       "halfTime": {
-        "home": 1,
-        "away": 1
+        "home": null,
+        "away": null
       }
     },
     "minute": "",
-    "utcDate": "2026-11-20T19:30:00Z"
+    "utcDate": "2026-11-21T14:30:00Z"
+  },
+  "565865": {
+    "status": "TIMED",
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "home": null,
+        "away": null
+      },
+      "halfTime": {
+        "home": null,
+        "away": null
+      }
+    },
+    "minute": "",
+    "utcDate": "2026-11-21T14:30:00Z"
+  },
+  "560648": {
+    "status": "TIMED",
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "home": null,
+        "away": null
+      },
+      "halfTime": {
+        "home": null,
+        "away": null
+      }
+    },
+    "minute": "",
+    "utcDate": "2026-11-21T15:00:00Z"
   }
 }

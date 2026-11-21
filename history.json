@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-11-21",
+    "picks": [
+      {
+        "id": 565860,
+        "match": "SV 07 Elversberg vs SC Freiburg",
+        "competition": "Bundesliga",
+        "utcDate": "2026-11-21T14:30:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 89,
+        "fairOdds": 1.12,
+        "result": "PENDING"
+      },
+      {
+        "id": 565865,
+        "match": "Eintracht Frankfurt vs TSG 1899 Hoffenheim",
+        "competition": "Bundesliga",
+        "utcDate": "2026-11-21T14:30:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 84,
+        "fairOdds": 1.19,
+        "result": "PENDING"
+      },
+      {
+        "id": 560648,
+        "match": "Tottenham Hotspur FC vs Ipswich Town FC",
+        "competition": "Premier League",
+        "utcDate": "2026-11-21T15:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 87,
+        "fairOdds": 1.15,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "picks": [
       {
