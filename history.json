@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-11-22",
+    "picks": [
+      {
+        "id": 564750,
+        "match": "Real Racing Club de Santander vs Real Sociedad de F\u00fatbol",
+        "competition": "Primera Division",
+        "utcDate": "2026-11-22T15:15:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 91,
+        "fairOdds": 1.1,
+        "result": "PENDING"
+      },
+      {
+        "id": 558523,
+        "match": "AC Milan vs Frosinone Calcio",
+        "competition": "Serie A",
+        "utcDate": "2026-11-22T17:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 89,
+        "fairOdds": 1.13,
+        "result": "PENDING"
+      },
+      {
+        "id": 558520,
+        "match": "Atalanta BC vs FC Internazionale Milano",
+        "competition": "Serie A",
+        "utcDate": "2026-11-22T19:45:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 86,
+        "fairOdds": 1.16,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-11-21",
     "picks": [
       {
