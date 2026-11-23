@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-11-23",
+    "picks": [
+      {
+        "id": 558519,
+        "match": "AC Monza vs ACF Fiorentina",
+        "competition": "Serie A",
+        "utcDate": "2026-11-23T19:45:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 90,
+        "fairOdds": 1.11,
+        "result": "PENDING"
+      },
+      {
+        "id": 564757,
+        "match": "Levante UD vs Elche CF",
+        "competition": "Primera Division",
+        "utcDate": "2026-11-23T20:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 80,
+        "fairOdds": 1.25,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "picks": [
       {
