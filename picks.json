@@ -19,7 +19,8 @@
       "formDetail": "AC Monza 4/5 + ACF Fiorentina 5/5 recent games over 1.5 \u2022 expected goals 2.07-1.88",
       "explanation": "AC Monza 4/5 + ACF Fiorentina 5/5 recent games over 1.5 \u2022 expected goals 2.07-1.88",
       "reason": "AC Monza 4/5 + ACF Fiorentina 5/5 recent games over 1.5 \u2022 expected goals 2.07-1.88",
-      "result": "PENDING"
+      "result": "WON",
+      "finalScore": "3-0"
     },
     {
       "id": 564757,
@@ -38,7 +39,8 @@
       "formDetail": "Levante UD 4/5 + Elche CF 2/5 recent games over 1.5 \u2022 expected goals 1.67-2.06",
       "explanation": "Levante UD 4/5 + Elche CF 2/5 recent games over 1.5 \u2022 expected goals 1.67-2.06",
       "reason": "Levante UD 4/5 + Elche CF 2/5 recent games over 1.5 \u2022 expected goals 1.67-2.06",
-      "result": "PENDING"
+      "result": "WON",
+      "finalScore": "1-1"
     }
   ]
 }
