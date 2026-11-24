@@ -1,46 +1,5 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T18:58:03+00:00",
-  "picks": [
-    {
-      "id": 558519,
-      "match": "AC Monza vs ACF Fiorentina",
-      "competition": "Serie A",
-      "utcDate": "2026-11-23T19:45:00Z",
-      "time": "2026-11-23T19:45:00Z",
-      "status": "TIMED",
-      "market": "Over 1.5 Goals",
-      "pick": "Over 1.5 Goals",
-      "prob": 90,
-      "confidence": 90,
-      "percent": 90,
-      "xg": 3.96,
-      "fairOdds": 1.11,
-      "formDetail": "AC Monza 4/5 + ACF Fiorentina 5/5 recent games over 1.5 \u2022 expected goals 2.07-1.88",
-      "explanation": "AC Monza 4/5 + ACF Fiorentina 5/5 recent games over 1.5 \u2022 expected goals 2.07-1.88",
-      "reason": "AC Monza 4/5 + ACF Fiorentina 5/5 recent games over 1.5 \u2022 expected goals 2.07-1.88",
-      "result": "WON",
-      "finalScore": "3-0"
-    },
-    {
-      "id": 564757,
-      "match": "Levante UD vs Elche CF",
-      "competition": "Primera Division",
-      "utcDate": "2026-11-23T20:00:00Z",
-      "time": "2026-11-23T20:00:00Z",
-      "status": "TIMED",
-      "market": "Over 1.5 Goals",
-      "pick": "Over 1.5 Goals",
-      "prob": 80,
-      "confidence": 80,
-      "percent": 80,
-      "xg": 3.73,
-      "fairOdds": 1.25,
-      "formDetail": "Levante UD 4/5 + Elche CF 2/5 recent games over 1.5 \u2022 expected goals 1.67-2.06",
-      "explanation": "Levante UD 4/5 + Elche CF 2/5 recent games over 1.5 \u2022 expected goals 1.67-2.06",
-      "reason": "Levante UD 4/5 + Elche CF 2/5 recent games over 1.5 \u2022 expected goals 1.67-2.06",
-      "result": "WON",
-      "finalScore": "1-1"
-    }
-  ]
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T18:37:32+00:00",
+  "picks": []
 }
