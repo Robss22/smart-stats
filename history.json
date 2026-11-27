@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-11-27",
+    "picks": [
+      {
+        "id": 565869,
+        "match": "SV Werder Bremen vs Borussia M\u00f6nchengladbach",
+        "competition": "Bundesliga",
+        "utcDate": "2026-11-27T19:30:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 84,
+        "fairOdds": 1.19,
+        "result": "PENDING"
+      },
+      {
+        "id": 558515,
+        "match": "Venezia FC vs Bologna FC 1909",
+        "competition": "Serie A",
+        "utcDate": "2026-11-27T19:45:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 77,
+        "fairOdds": 1.29,
+        "result": "PENDING"
+      },
+      {
+        "id": 564765,
+        "match": "Levante UD vs Real Racing Club de Santander",
+        "competition": "Primera Division",
+        "utcDate": "2026-11-27T20:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 93,
+        "fairOdds": 1.08,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-11-23",
     "picks": [
       {

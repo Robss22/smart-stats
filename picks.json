@@ -1,5 +1,63 @@
 {
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T17:31:02+00:00",
-  "picks": []
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T17:13:44+00:00",
+  "picks": [
+    {
+      "id": 565869,
+      "match": "SV Werder Bremen vs Borussia M\u00f6nchengladbach",
+      "competition": "Bundesliga",
+      "utcDate": "2026-11-27T19:30:00Z",
+      "time": "2026-11-27T19:30:00Z",
+      "status": "TIMED",
+      "market": "Over 1.5 Goals",
+      "pick": "Over 1.5 Goals",
+      "prob": 84,
+      "confidence": 84,
+      "percent": 84,
+      "xg": 3.94,
+      "fairOdds": 1.19,
+      "formDetail": "SV Werder Bremen 4/5 + Borussia M\u00f6nchengladbach 3/5 recent games over 1.5 \u2022 expected goals 2.89-1.05",
+      "explanation": "SV Werder Bremen 4/5 + Borussia M\u00f6nchengladbach 3/5 recent games over 1.5 \u2022 expected goals 2.89-1.05",
+      "reason": "SV Werder Bremen 4/5 + Borussia M\u00f6nchengladbach 3/5 recent games over 1.5 \u2022 expected goals 2.89-1.05",
+      "result": "PENDING"
+    },
+    {
+      "id": 558515,
+      "match": "Venezia FC vs Bologna FC 1909",
+      "competition": "Serie A",
+      "utcDate": "2026-11-27T19:45:00Z",
+      "time": "2026-11-27T19:45:00Z",
+      "status": "TIMED",
+      "market": "Over 1.5 Goals",
+      "pick": "Over 1.5 Goals",
+      "prob": 77,
+      "confidence": 77,
+      "percent": 77,
+      "xg": 2.76,
+      "fairOdds": 1.29,
+      "formDetail": "Venezia FC 3/5 + Bologna FC 1909 5/5 recent games over 1.5 \u2022 expected goals 1.00-1.76",
+      "explanation": "Venezia FC 3/5 + Bologna FC 1909 5/5 recent games over 1.5 \u2022 expected goals 1.00-1.76",
+      "reason": "Venezia FC 3/5 + Bologna FC 1909 5/5 recent games over 1.5 \u2022 expected goals 1.00-1.76",
+      "result": "PENDING"
+    },
+    {
+      "id": 564765,
+      "match": "Levante UD vs Real Racing Club de Santander",
+      "competition": "Primera Division",
+      "utcDate": "2026-11-27T20:00:00Z",
+      "time": "2026-11-27T20:00:00Z",
+      "status": "TIMED",
+      "market": "Over 1.5 Goals",
+      "pick": "Over 1.5 Goals",
+      "prob": 93,
+      "confidence": 93,
+      "percent": 93,
+      "xg": 4.47,
+      "fairOdds": 1.08,
+      "formDetail": "Levante UD 4/5 + Real Racing Club de Santander 5/5 recent games over 1.5 \u2022 expected goals 2.93-1.53",
+      "explanation": "Levante UD 4/5 + Real Racing Club de Santander 5/5 recent games over 1.5 \u2022 expected goals 2.93-1.53",
+      "reason": "Levante UD 4/5 + Real Racing Club de Santander 5/5 recent games over 1.5 \u2022 expected goals 2.93-1.53",
+      "result": "PENDING"
+    }
+  ]
 }
