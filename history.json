@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-11-28",
+    "picks": [
+      {
+        "id": 558514,
+        "match": "Torino FC vs SS Lazio",
+        "competition": "Serie A",
+        "utcDate": "2026-11-28T17:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 86,
+        "fairOdds": 1.17,
+        "result": "PENDING"
+      },
+      {
+        "id": 558518,
+        "match": "FC Internazionale Milano vs Genoa CFC",
+        "competition": "Serie A",
+        "utcDate": "2026-11-28T19:45:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 85,
+        "fairOdds": 1.17,
+        "result": "PENDING"
+      },
+      {
+        "id": 564762,
+        "match": "Real Madrid CF vs Deportivo Alav\u00e9s",
+        "competition": "Primera Division",
+        "utcDate": "2026-11-28T20:00:00Z",
+        "market": "Over 1.5 Goals",
+        "prob": 86,
+        "fairOdds": 1.16,
+        "result": "PENDING"
+      }
+    ]
+  },
+  {
     "date": "2026-11-27",
     "picks": [
       {
