@@ -19,7 +19,8 @@
       "formDetail": "SV Werder Bremen 4/5 + Borussia M\u00f6nchengladbach 3/5 recent games over 1.5 \u2022 expected goals 2.89-1.05",
       "explanation": "SV Werder Bremen 4/5 + Borussia M\u00f6nchengladbach 3/5 recent games over 1.5 \u2022 expected goals 2.89-1.05",
       "reason": "SV Werder Bremen 4/5 + Borussia M\u00f6nchengladbach 3/5 recent games over 1.5 \u2022 expected goals 2.89-1.05",
-      "result": "PENDING"
+      "result": "WON",
+      "finalScore": "3-3"
     },
     {
       "id": 558515,
@@ -38,7 +39,8 @@
       "formDetail": "Venezia FC 3/5 + Bologna FC 1909 5/5 recent games over 1.5 \u2022 expected goals 1.00-1.76",
       "explanation": "Venezia FC 3/5 + Bologna FC 1909 5/5 recent games over 1.5 \u2022 expected goals 1.00-1.76",
       "reason": "Venezia FC 3/5 + Bologna FC 1909 5/5 recent games over 1.5 \u2022 expected goals 1.00-1.76",
-      "result": "PENDING"
+      "result": "LOST",
+      "finalScore": "0-0"
     },
     {
       "id": 564765,
@@ -57,7 +59,8 @@
       "formDetail": "Levante UD 4/5 + Real Racing Club de Santander 5/5 recent games over 1.5 \u2022 expected goals 2.93-1.53",
       "explanation": "Levante UD 4/5 + Real Racing Club de Santander 5/5 recent games over 1.5 \u2022 expected goals 2.93-1.53",
       "reason": "Levante UD 4/5 + Real Racing Club de Santander 5/5 recent games over 1.5 \u2022 expected goals 2.93-1.53",
-      "result": "PENDING"
+      "result": "WON",
+      "finalScore": "1-3"
     }
   ]
 }
